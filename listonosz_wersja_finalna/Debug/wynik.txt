@@ -1,0 +1,8 @@
+1 2 Marii Skłodowskiej-Curie
+2 3 Akademicka
+3 4 Bolesława Krzywoustego
+4 6 Łużycka
+6 5 Wrocławska
+5 3 Akademicka
+3 4 Bolesława Krzywoustego
+4 1 Łużycka
